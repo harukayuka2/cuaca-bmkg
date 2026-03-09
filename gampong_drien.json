@@ -1,0 +1,19 @@
+{
+  "provinsi": "Aceh",
+  "kota": "Aceh Selatan",
+  "kecamatan": "Bakongan",
+  "desa": "Gampong Drien",
+  "adm4": "11.01.01.2004",
+  "cuaca": "Cerah Berawan",
+  "cuaca_en": "Partly Cloudy",
+  "curah_hujan": 0,
+  "kecepatan_angin": 4.1,
+  "arah_angin": "NE",
+  "arah_angin_deg": 57,
+  "suhu": 22,
+  "kelembaban": 96,
+  "tutupan_awan": 84,
+  "jarak_pandang": "> 10 km",
+  "waktu_data": "2026-03-10 04:00:00",
+  "tanggal_ambil": "2026-03-09T20:37:39Z"
+}
