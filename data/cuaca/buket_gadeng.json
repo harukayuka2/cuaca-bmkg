@@ -1,0 +1,19 @@
+{
+  "provinsi": "Aceh",
+  "kota": "Aceh Selatan",
+  "kecamatan": "Kota Bahagia",
+  "desa": "Buket Gadeng",
+  "adm4": "11.01.17.2001",
+  "cuaca": "Cerah Berawan",
+  "cuaca_en": "Partly Cloudy",
+  "curah_hujan": 0,
+  "kecepatan_angin": 4.1,
+  "arah_angin": "NE",
+  "arah_angin_deg": 57,
+  "suhu": 21,
+  "kelembaban": 97,
+  "tutupan_awan": 84,
+  "jarak_pandang": "> 10 km",
+  "waktu_data": "2026-03-10 04:00:00",
+  "tanggal_ambil": "2026-03-10T03:59:04 WIB"
+}
