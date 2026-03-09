@@ -1,0 +1,19 @@
+{
+  "provinsi": "Aceh",
+  "kota": "Aceh Selatan",
+  "kecamatan": "Kota Bahagia",
+  "desa": "Jambo Keupok",
+  "adm4": "11.01.17.2009",
+  "cuaca": "Cerah Berawan",
+  "cuaca_en": "Partly Cloudy",
+  "curah_hujan": 0,
+  "kecepatan_angin": 3.8,
+  "arah_angin": "N",
+  "arah_angin_deg": 27,
+  "suhu": 20,
+  "kelembaban": 94,
+  "tutupan_awan": 66,
+  "jarak_pandang": "> 10 km",
+  "waktu_data": "2026-03-10 05:00:00",
+  "tanggal_ambil": "2026-03-10T03:59:04 WIB"
+}
