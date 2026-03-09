@@ -1,0 +1,19 @@
+{
+  "provinsi": "Aceh",
+  "kota": "Aceh Selatan",
+  "kecamatan": "Trumon",
+  "desa": "Seuneubok Jaya",
+  "adm4": "11.01.09.2015",
+  "cuaca": "Udara Kabur",
+  "cuaca_en": "Mist/Haze",
+  "curah_hujan": 0,
+  "kecepatan_angin": 8,
+  "arah_angin": "NE",
+  "arah_angin_deg": 74,
+  "suhu": 22,
+  "kelembaban": 99,
+  "tutupan_awan": 93,
+  "jarak_pandang": "< 4 km",
+  "waktu_data": "2026-03-10 04:00:00",
+  "tanggal_ambil": "2026-03-10T03:49:22 WIB"
+}
