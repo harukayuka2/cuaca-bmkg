@@ -1,0 +1,19 @@
+{
+  "provinsi": "Aceh",
+  "kota": "Aceh Selatan",
+  "kecamatan": "Labuhan Haji Timur",
+  "desa": "Gunung Rotan",
+  "adm4": "11.01.11.2008",
+  "cuaca": "Cerah Berawan",
+  "cuaca_en": "Partly Cloudy",
+  "curah_hujan": 0,
+  "kecepatan_angin": 1.4,
+  "arah_angin": "NE",
+  "arah_angin_deg": 55,
+  "suhu": 15,
+  "kelembaban": 97,
+  "tutupan_awan": 88,
+  "jarak_pandang": "> 10 km",
+  "waktu_data": "2026-03-10 05:00:00",
+  "tanggal_ambil": "2026-03-10T03:59:04 WIB"
+}
