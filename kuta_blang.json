@@ -1,0 +1,19 @@
+{
+  "provinsi": "Aceh",
+  "kota": "Aceh Selatan",
+  "kecamatan": "Samadua",
+  "desa": "Kuta Blang",
+  "adm4": "11.01.06.2011",
+  "cuaca": "Cerah Berawan",
+  "cuaca_en": "Partly Cloudy",
+  "curah_hujan": 0.2,
+  "kecepatan_angin": 10,
+  "arah_angin": "E",
+  "arah_angin_deg": 130,
+  "suhu": 25,
+  "kelembaban": 79,
+  "tutupan_awan": 85,
+  "jarak_pandang": "> 10 km",
+  "waktu_data": "2026-03-10 04:00:00",
+  "tanggal_ambil": "2026-03-10T03:49:22 WIB"
+}
