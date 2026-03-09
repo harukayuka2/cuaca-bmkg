@@ -1,0 +1,19 @@
+{
+  "provinsi": "Aceh",
+  "kota": "Aceh Selatan",
+  "kecamatan": "Kluet Tengah",
+  "desa": "Kampung Sawah",
+  "adm4": "11.01.13.2007",
+  "cuaca": "Cerah",
+  "cuaca_en": "Sunny",
+  "curah_hujan": 0,
+  "kecepatan_angin": 3.2,
+  "arah_angin": "NE",
+  "arah_angin_deg": 48,
+  "suhu": 12,
+  "kelembaban": 90,
+  "tutupan_awan": 44,
+  "jarak_pandang": "> 10 km",
+  "waktu_data": "2026-03-10 05:00:00",
+  "tanggal_ambil": "2026-03-10T03:59:04 WIB"
+}
