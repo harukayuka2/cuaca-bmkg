@@ -1,0 +1,19 @@
+{
+  "provinsi": "Aceh",
+  "kota": "Aceh Selatan",
+  "kecamatan": "Meukek",
+  "desa": "Jambo Papeun",
+  "adm4": "11.01.05.2005",
+  "cuaca": "Cerah",
+  "cuaca_en": "Sunny",
+  "curah_hujan": 0,
+  "kecepatan_angin": 4.3,
+  "arah_angin": "N",
+  "arah_angin_deg": 41,
+  "suhu": 13,
+  "kelembaban": 98,
+  "tutupan_awan": 51,
+  "jarak_pandang": "> 10 km",
+  "waktu_data": "2026-03-10 04:00:00",
+  "tanggal_ambil": "2026-03-10T03:49:22 WIB"
+}
