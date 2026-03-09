@@ -1,0 +1,19 @@
+{
+  "provinsi": "Aceh",
+  "kota": "Aceh Selatan",
+  "kecamatan": "Kluet Selatan",
+  "desa": "Sialang",
+  "adm4": "11.01.03.2004",
+  "cuaca": "Cerah Berawan",
+  "cuaca_en": "Partly Cloudy",
+  "curah_hujan": 0.1,
+  "kecepatan_angin": 10.1,
+  "arah_angin": "E",
+  "arah_angin_deg": 96,
+  "suhu": 24,
+  "kelembaban": 92,
+  "tutupan_awan": 87,
+  "jarak_pandang": "> 10 km",
+  "waktu_data": "2026-03-10 04:00:00",
+  "tanggal_ambil": "2026-03-09T20:37:39Z"
+}
