@@ -1,0 +1,19 @@
+{
+  "provinsi": "Aceh",
+  "kota": "Aceh Selatan",
+  "kecamatan": "Trumon",
+  "desa": "Raket",
+  "adm4": "11.01.09.2013",
+  "cuaca": "Berawan",
+  "cuaca_en": "Mostly Cloudy",
+  "curah_hujan": 0,
+  "kecepatan_angin": 8,
+  "arah_angin": "NE",
+  "arah_angin_deg": 87,
+  "suhu": 24,
+  "kelembaban": 96,
+  "tutupan_awan": 94,
+  "jarak_pandang": "< 10 km",
+  "waktu_data": "2026-03-10 04:00:00",
+  "tanggal_ambil": "2026-03-10T03:49:22 WIB"
+}
