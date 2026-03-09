@@ -1,0 +1,19 @@
+{
+  "provinsi": "Aceh",
+  "kota": "Aceh Selatan",
+  "kecamatan": "Bakongan",
+  "desa": "Padang Beurahan",
+  "adm4": "11.01.01.2016",
+  "cuaca": "Cerah Berawan",
+  "cuaca_en": "Partly Cloudy",
+  "curah_hujan": 0,
+  "kecepatan_angin": 9.2,
+  "arah_angin": "E",
+  "arah_angin_deg": 97,
+  "suhu": 24,
+  "kelembaban": 94,
+  "tutupan_awan": 84,
+  "jarak_pandang": "> 10 km",
+  "waktu_data": "2026-03-10 04:00:00",
+  "tanggal_ambil": "2026-03-09T20:37:39Z"
+}
