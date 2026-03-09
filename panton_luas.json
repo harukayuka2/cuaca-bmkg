@@ -1,0 +1,19 @@
+{
+  "provinsi": "Aceh",
+  "kota": "Aceh Selatan",
+  "kecamatan": "Sawang",
+  "desa": "Panton Luas",
+  "adm4": "11.01.07.2009",
+  "cuaca": "Cerah",
+  "cuaca_en": "Sunny",
+  "curah_hujan": 0.1,
+  "kecepatan_angin": 4.5,
+  "arah_angin": "N",
+  "arah_angin_deg": 32,
+  "suhu": 20,
+  "kelembaban": 90,
+  "tutupan_awan": 58,
+  "jarak_pandang": "> 10 km",
+  "waktu_data": "2026-03-10 04:00:00",
+  "tanggal_ambil": "2026-03-10T03:49:22 WIB"
+}
