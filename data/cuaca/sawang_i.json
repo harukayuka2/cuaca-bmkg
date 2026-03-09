@@ -1,0 +1,19 @@
+{
+  "provinsi": "Aceh",
+  "kota": "Aceh Selatan",
+  "kecamatan": "Sawang",
+  "desa": "Sawang I",
+  "adm4": "11.01.07.2002",
+  "cuaca": "Berawan",
+  "cuaca_en": "Mostly Cloudy",
+  "curah_hujan": 0.2,
+  "kecepatan_angin": 3.3,
+  "arah_angin": "E",
+  "arah_angin_deg": 95,
+  "suhu": 24,
+  "kelembaban": 82,
+  "tutupan_awan": 92,
+  "jarak_pandang": "> 10 km",
+  "waktu_data": "2026-03-10 04:00:00",
+  "tanggal_ambil": "2026-03-10T03:59:04 WIB"
+}
