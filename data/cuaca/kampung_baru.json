@@ -1,0 +1,19 @@
+{
+  "provinsi": "Aceh",
+  "kota": "Aceh Selatan",
+  "kecamatan": "Pasi Raja",
+  "desa": "Kampung Baru",
+  "adm4": "11.01.10.2004",
+  "cuaca": "Berawan",
+  "cuaca_en": "Mostly Cloudy",
+  "curah_hujan": 0,
+  "kecepatan_angin": 2.8,
+  "arah_angin": "NW",
+  "arah_angin_deg": 325,
+  "suhu": 23,
+  "kelembaban": 91,
+  "tutupan_awan": 90,
+  "jarak_pandang": "> 10 km",
+  "waktu_data": "2026-03-10 05:00:00",
+  "tanggal_ambil": "2026-03-10T03:59:04 WIB"
+}
