@@ -1,0 +1,19 @@
+{
+  "provinsi": "Aceh",
+  "kota": "Aceh Selatan",
+  "kecamatan": "Labuhanhaji",
+  "desa": "Pasar Lama",
+  "adm4": "11.01.04.2004",
+  "cuaca": "Berawan",
+  "cuaca_en": "Mostly Cloudy",
+  "curah_hujan": 0,
+  "kecepatan_angin": 4.5,
+  "arah_angin": "NE",
+  "arah_angin_deg": 89,
+  "suhu": 23,
+  "kelembaban": 84,
+  "tutupan_awan": 91,
+  "jarak_pandang": "< 9 km",
+  "waktu_data": "2026-03-10 04:00:00",
+  "tanggal_ambil": "2026-03-10T03:59:04 WIB"
+}
