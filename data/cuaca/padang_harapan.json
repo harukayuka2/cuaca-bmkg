@@ -1,0 +1,19 @@
+{
+  "provinsi": "Aceh",
+  "kota": "Aceh Selatan",
+  "kecamatan": "Trumon",
+  "desa": "Padang Harapan",
+  "adm4": "11.01.09.2016",
+  "cuaca": "Berawan",
+  "cuaca_en": "Mostly Cloudy",
+  "curah_hujan": 0,
+  "kecepatan_angin": 6.7,
+  "arah_angin": "NE",
+  "arah_angin_deg": 70,
+  "suhu": 22,
+  "kelembaban": 98,
+  "tutupan_awan": 91,
+  "jarak_pandang": "> 10 km",
+  "waktu_data": "2026-03-10 04:00:00",
+  "tanggal_ambil": "2026-03-10T03:59:04 WIB"
+}
