@@ -1,0 +1,19 @@
+{
+  "provinsi": "Aceh",
+  "kota": "Aceh Selatan",
+  "kecamatan": "Trumon Timur",
+  "desa": "Alur Bujok",
+  "adm4": "11.01.16.2011",
+  "cuaca": "Cerah Berawan",
+  "cuaca_en": "Partly Cloudy",
+  "curah_hujan": 0,
+  "kecepatan_angin": 4.4,
+  "arah_angin": "N",
+  "arah_angin_deg": 32,
+  "suhu": 22,
+  "kelembaban": 99,
+  "tutupan_awan": 83,
+  "jarak_pandang": "< 9 km",
+  "waktu_data": "2026-03-10 05:00:00",
+  "tanggal_ambil": "2026-03-10T03:59:04 WIB"
+}
