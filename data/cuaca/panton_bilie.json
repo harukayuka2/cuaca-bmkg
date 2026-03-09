@@ -1,0 +1,19 @@
+{
+  "provinsi": "Aceh",
+  "kota": "Aceh Selatan",
+  "kecamatan": "Trumon",
+  "desa": "Panton Bilie",
+  "adm4": "11.01.09.2007",
+  "cuaca": "Berawan",
+  "cuaca_en": "Mostly Cloudy",
+  "curah_hujan": 0,
+  "kecepatan_angin": 6.5,
+  "arah_angin": "NE",
+  "arah_angin_deg": 81,
+  "suhu": 22,
+  "kelembaban": 97,
+  "tutupan_awan": 95,
+  "jarak_pandang": "> 10 km",
+  "waktu_data": "2026-03-10 04:00:00",
+  "tanggal_ambil": "2026-03-10T03:59:04 WIB"
+}
