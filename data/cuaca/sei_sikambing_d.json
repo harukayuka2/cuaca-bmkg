@@ -1,0 +1,19 @@
+{
+  "provinsi": "Sumatera Utara",
+  "kota": "Kota Medan",
+  "kecamatan": "Medan Petisah",
+  "desa": "Sei Sikambing D",
+  "adm4": "12.71.19.1003",
+  "cuaca": "Hujan Ringan",
+  "cuaca_en": "Light Rain",
+  "curah_hujan": 1.9,
+  "kecepatan_angin": 3.2,
+  "arah_angin": "SW",
+  "arah_angin_deg": 260,
+  "suhu": 28,
+  "kelembaban": 80,
+  "tutupan_awan": 60,
+  "jarak_pandang": "> 10 km",
+  "waktu_data": "2026-03-10 18:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
