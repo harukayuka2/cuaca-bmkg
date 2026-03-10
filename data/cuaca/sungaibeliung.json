@@ -1,0 +1,19 @@
+{
+  "provinsi": "Kalimantan Barat",
+  "kota": "Kota Pontianak",
+  "kecamatan": "Pontianak Barat",
+  "desa": "Sungaibeliung",
+  "adm4": "61.71.03.1004",
+  "cuaca": "Berawan",
+  "cuaca_en": "Mostly Cloudy",
+  "curah_hujan": 0,
+  "kecepatan_angin": 1.1,
+  "arah_angin": "NW",
+  "arah_angin_deg": 354,
+  "suhu": 24,
+  "kelembaban": 98,
+  "tutupan_awan": 100,
+  "jarak_pandang": "> 10 km",
+  "waktu_data": "2026-03-10 20:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
