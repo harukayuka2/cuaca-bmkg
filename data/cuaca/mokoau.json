@@ -1,0 +1,19 @@
+{
+  "provinsi": "Sulawesi Tenggara",
+  "kota": "Kota Kendari",
+  "kecamatan": "Kambu",
+  "desa": "Mokoau",
+  "adm4": "74.71.10.1002",
+  "cuaca": "Berawan",
+  "cuaca_en": "Mostly Cloudy",
+  "curah_hujan": 0.1,
+  "kecepatan_angin": 1,
+  "arah_angin": "E",
+  "arah_angin_deg": 112,
+  "suhu": 26,
+  "kelembaban": 93,
+  "tutupan_awan": 98,
+  "jarak_pandang": "< 8 km",
+  "waktu_data": "2026-03-10 22:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
