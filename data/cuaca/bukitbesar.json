@@ -1,0 +1,19 @@
+{
+  "provinsi": "Kepulauan Bangka Belitung",
+  "kota": "Kota Pangkal Pinang",
+  "kecamatan": "Girimaya",
+  "desa": "Bukit Besar",
+  "adm4": "19.71.07.1003",
+  "cuaca": "Berawan",
+  "cuaca_en": "Mostly Cloudy",
+  "curah_hujan": 0,
+  "kecepatan_angin": 8.4,
+  "arah_angin": "N",
+  "arah_angin_deg": 6,
+  "suhu": 26,
+  "kelembaban": 83,
+  "tutupan_awan": 99,
+  "jarak_pandang": "> 10 km",
+  "waktu_data": "2026-03-10 19:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
