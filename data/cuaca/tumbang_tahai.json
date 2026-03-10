@@ -1,0 +1,19 @@
+{
+  "provinsi": "Kalimantan Tengah",
+  "kota": "Kota Palangkaraya",
+  "kecamatan": "Bukit Batu",
+  "desa": "Tumbang Tahai",
+  "adm4": "62.71.02.1002",
+  "cuaca": "Hujan Ringan",
+  "cuaca_en": "Light Rain",
+  "curah_hujan": 1.1,
+  "kecepatan_angin": 4.8,
+  "arah_angin": "W",
+  "arah_angin_deg": 272,
+  "suhu": 25,
+  "kelembaban": 96,
+  "tutupan_awan": 84,
+  "jarak_pandang": "< 8 km",
+  "waktu_data": "2026-03-10 20:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
