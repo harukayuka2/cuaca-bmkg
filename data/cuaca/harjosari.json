@@ -1,0 +1,19 @@
+{
+  "provinsi": "Riau",
+  "kota": "Kota Pekanbaru",
+  "kecamatan": "Sukajadi",
+  "desa": "Harjosari",
+  "adm4": "14.71.01.1006",
+  "cuaca": "Cerah",
+  "cuaca_en": "Sunny",
+  "curah_hujan": 0,
+  "kecepatan_angin": 6.3,
+  "arah_angin": "NW",
+  "arah_angin_deg": 320,
+  "suhu": 32,
+  "kelembaban": 50,
+  "tutupan_awan": 32,
+  "jarak_pandang": "< 8 km",
+  "waktu_data": "2026-03-10 17:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
