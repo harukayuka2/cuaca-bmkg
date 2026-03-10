@@ -1,0 +1,19 @@
+{
+  "provinsi": "Kalimantan Selatan",
+  "kota": "Kota Banjarmasin",
+  "kecamatan": "Banjarmasin Barat",
+  "desa": "Belitung Utara",
+  "adm4": "63.71.03.1001",
+  "cuaca": "Berawan",
+  "cuaca_en": "Mostly Cloudy",
+  "curah_hujan": 0,
+  "kecepatan_angin": 6.7,
+  "arah_angin": "W",
+  "arah_angin_deg": 271,
+  "suhu": 26,
+  "kelembaban": 89,
+  "tutupan_awan": 99,
+  "jarak_pandang": "> 10 km",
+  "waktu_data": "2026-03-10 22:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
