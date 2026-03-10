@@ -1,0 +1,19 @@
+{
+  "provinsi": "Papua Barat",
+  "kota": "Fak Fak",
+  "kecamatan": "Tomage",
+  "desa": "Wamosan",
+  "adm4": "92.03.17.2006",
+  "cuaca": "Hujan Ringan",
+  "cuaca_en": "Light Rain",
+  "curah_hujan": 2.3,
+  "kecepatan_angin": 14,
+  "arah_angin": "W",
+  "arah_angin_deg": 297,
+  "suhu": 26,
+  "kelembaban": 90,
+  "tutupan_awan": 100,
+  "jarak_pandang": "< 8 km",
+  "waktu_data": "2026-03-10 23:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
