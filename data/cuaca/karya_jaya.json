@@ -6,14 +6,14 @@
   "adm4": "16.71.13.1005",
   "cuaca": "Cerah",
   "cuaca_en": "Sunny",
-  "curah_hujan": 0,
+  "curah_hujan": 0.5,
   "kecepatan_angin": 3,
   "arah_angin": "W",
   "arah_angin_deg": 293,
-  "suhu": 28,
-  "kelembaban": 79,
-  "tutupan_awan": 41,
+  "suhu": 27,
+  "kelembaban": 82,
+  "tutupan_awan": 55,
   "jarak_pandang": "> 10 km",
-  "waktu_data": "2026-03-10 18:00:00",
-  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+  "waktu_data": "2026-03-10 19:00:00",
+  "tanggal_ambil": "2026-03-10T18:59:27 WIB"
 }
