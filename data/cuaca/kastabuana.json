@@ -1,0 +1,19 @@
+{
+  "provinsi": "Sulawesi Barat",
+  "kota": "Pasangkayu",
+  "kecamatan": "Bulu Taba",
+  "desa": "Kastabuana",
+  "adm4": "76.01.07.2004",
+  "cuaca": "Berawan",
+  "cuaca_en": "Mostly Cloudy",
+  "curah_hujan": 0.8,
+  "kecepatan_angin": 1.2,
+  "arah_angin": "E",
+  "arah_angin_deg": 91,
+  "suhu": 24,
+  "kelembaban": 97,
+  "tutupan_awan": 100,
+  "jarak_pandang": "< 7 km",
+  "waktu_data": "2026-03-10 22:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
