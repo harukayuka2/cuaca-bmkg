@@ -1,0 +1,19 @@
+{
+  "provinsi": "Jawa Tengah",
+  "kota": "Kota Semarang",
+  "kecamatan": "Gayamsari",
+  "desa": "Siwalan",
+  "adm4": "33.74.04.1005",
+  "cuaca": "Hujan Ringan",
+  "cuaca_en": "Light Rain",
+  "curah_hujan": 2.8,
+  "kecepatan_angin": 3,
+  "arah_angin": "W",
+  "arah_angin_deg": 295,
+  "suhu": 26,
+  "kelembaban": 89,
+  "tutupan_awan": 100,
+  "jarak_pandang": "< 7 km",
+  "waktu_data": "2026-03-10 18:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
