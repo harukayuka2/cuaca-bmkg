@@ -1,0 +1,19 @@
+{
+  "provinsi": "Maluku",
+  "kota": "Kota Ambon",
+  "kecamatan": "Teluk Ambon",
+  "desa": "Laha",
+  "adm4": "81.71.04.2007",
+  "cuaca": "Berawan",
+  "cuaca_en": "Mostly Cloudy",
+  "curah_hujan": 0.1,
+  "kecepatan_angin": 10.5,
+  "arah_angin": "NW",
+  "arah_angin_deg": 333,
+  "suhu": 24,
+  "kelembaban": 93,
+  "tutupan_awan": 100,
+  "jarak_pandang": "> 10 km",
+  "waktu_data": "2026-03-11 00:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
