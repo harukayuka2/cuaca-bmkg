@@ -1,0 +1,19 @@
+{
+  "provinsi": "Aceh",
+  "kota": "Kota Banda Aceh",
+  "kecamatan": "Meuraxa",
+  "desa": "Blang Oi",
+  "adm4": "11.71.03.2008",
+  "cuaca": "Berawan",
+  "cuaca_en": "Mostly Cloudy",
+  "curah_hujan": 0.2,
+  "kecepatan_angin": 6.7,
+  "arah_angin": "SW",
+  "arah_angin_deg": 228,
+  "suhu": 27,
+  "kelembaban": 77,
+  "tutupan_awan": 99,
+  "jarak_pandang": "> 10 km",
+  "waktu_data": "2026-03-10 18:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
