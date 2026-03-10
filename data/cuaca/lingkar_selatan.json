@@ -1,0 +1,19 @@
+{
+  "provinsi": "Jambi",
+  "kota": "Kota Jambi",
+  "kecamatan": "Paal Merah",
+  "desa": "Lingkar Selatan",
+  "adm4": "15.71.11.1004",
+  "cuaca": "Cerah",
+  "cuaca_en": "Sunny",
+  "curah_hujan": 0,
+  "kecepatan_angin": 9.6,
+  "arah_angin": "N",
+  "arah_angin_deg": 20,
+  "suhu": 27,
+  "kelembaban": 72,
+  "tutupan_awan": 12,
+  "jarak_pandang": "< 8 km",
+  "waktu_data": "2026-03-10 18:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
