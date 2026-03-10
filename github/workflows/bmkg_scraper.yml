@@ -1,0 +1,33 @@
+name: 🌤️ BMKG Cuaca Scraper
+
+on:
+  schedule:
+    - cron: '0 23 * * *'   # jam 06.00 WIB (UTC+7 → 23.00 UTC hari sebelumnya)
+    - cron: '0 11 * * *'   # jam 18.00 WIB (UTC+7 → 11.00 UTC)
+  workflow_dispatch:        # bisa dijalanin manual dari tab Actions
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300    # max 5 jam, aman untuk ibukota provinsi
+
+    steps:
+      - name: 📥 Checkout repo
+        uses: actions/checkout@v4
+
+      - name: 🐍 Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 📦 Install dependencies
+        run: pip install requests psutil
+
+      - name: 🌤️ Jalanin scraper BMKG
+        env:
+          GITHUB_TOKEN_SCRAPER: ${{ secrets.SCRAPER_GITHUB_TOKEN }}
+          GITHUB_USER:          ${{ secrets.SCRAPER_GITHUB_USER }}
+          GITHUB_REPO:          ${{ secrets.SCRAPER_GITHUB_REPO }}
+          DISCORD_WEBHOOK_URL:  ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python bmkg_scraper.py
+
