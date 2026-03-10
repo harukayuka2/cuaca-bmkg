@@ -1,0 +1,19 @@
+{
+  "provinsi": "Sulawesi Utara",
+  "kota": "Kota Manado",
+  "kecamatan": "Bunaken",
+  "desa": "Tongkaina",
+  "adm4": "71.71.01.1006",
+  "cuaca": "Berawan",
+  "cuaca_en": "Mostly Cloudy",
+  "curah_hujan": 0.7,
+  "kecepatan_angin": 22.2,
+  "arah_angin": "W",
+  "arah_angin_deg": 277,
+  "suhu": 26,
+  "kelembaban": 87,
+  "tutupan_awan": 100,
+  "jarak_pandang": "< 10 km",
+  "waktu_data": "2026-03-10 22:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
