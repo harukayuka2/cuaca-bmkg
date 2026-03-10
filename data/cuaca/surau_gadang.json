@@ -1,0 +1,19 @@
+{
+  "provinsi": "Sumatera Barat",
+  "kota": "Kota Padang",
+  "kecamatan": "Nanggalo",
+  "desa": "Surau Gadang",
+  "adm4": "13.71.10.1001",
+  "cuaca": "Berawan",
+  "cuaca_en": "Mostly Cloudy",
+  "curah_hujan": 0.2,
+  "kecepatan_angin": 0.6,
+  "arah_angin": "W",
+  "arah_angin_deg": 312,
+  "suhu": 25,
+  "kelembaban": 91,
+  "tutupan_awan": 100,
+  "jarak_pandang": "< 8 km",
+  "waktu_data": "2026-03-10 18:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
