@@ -1,0 +1,19 @@
+{
+  "provinsi": "Kalimantan Utara",
+  "kota": "Nunukan",
+  "kecamatan": "Lumbis",
+  "desa": "Mansalong",
+  "adm4": "65.03.04.2028",
+  "cuaca": "Petir",
+  "cuaca_en": "Thunder",
+  "curah_hujan": 1,
+  "kecepatan_angin": 3.8,
+  "arah_angin": "NW",
+  "arah_angin_deg": 340,
+  "suhu": 23,
+  "kelembaban": 99,
+  "tutupan_awan": 60,
+  "jarak_pandang": "< 7 km",
+  "waktu_data": "2026-03-10 22:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
