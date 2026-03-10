@@ -1,0 +1,19 @@
+{
+  "provinsi": "Sumatera Utara",
+  "kota": "Kota Medan",
+  "kecamatan": "Medan Sunggal",
+  "desa": "Lalang",
+  "adm4": "12.71.02.1001",
+  "cuaca": "Hujan Ringan",
+  "cuaca_en": "Light Rain",
+  "curah_hujan": 1.9,
+  "kecepatan_angin": 1.7,
+  "arah_angin": "NW",
+  "arah_angin_deg": 316,
+  "suhu": 28,
+  "kelembaban": 84,
+  "tutupan_awan": 60,
+  "jarak_pandang": "> 10 km",
+  "waktu_data": "2026-03-10 18:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
