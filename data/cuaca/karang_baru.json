@@ -1,0 +1,19 @@
+{
+  "provinsi": "Nusa Tenggara Barat",
+  "kota": "Kota Mataram",
+  "kecamatan": "Selaprang",
+  "desa": "Karang Baru",
+  "adm4": "52.71.05.1004",
+  "cuaca": "Berawan",
+  "cuaca_en": "Mostly Cloudy",
+  "curah_hujan": 1,
+  "kecepatan_angin": 8.9,
+  "arah_angin": "SW",
+  "arah_angin_deg": 240,
+  "suhu": 26,
+  "kelembaban": 92,
+  "tutupan_awan": 94,
+  "jarak_pandang": "< 7 km",
+  "waktu_data": "2026-03-10 21:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
