@@ -1,0 +1,19 @@
+{
+  "provinsi": "Kalimantan Utara",
+  "kota": "Nunukan",
+  "kecamatan": "Krayan Timur",
+  "desa": "Long Nuat",
+  "adm4": "65.03.18.2010",
+  "cuaca": "Udara Kabur",
+  "cuaca_en": "Mist/Haze",
+  "curah_hujan": 0,
+  "kecepatan_angin": 1.6,
+  "arah_angin": "W",
+  "arah_angin_deg": 302,
+  "suhu": 16,
+  "kelembaban": 99,
+  "tutupan_awan": 63,
+  "jarak_pandang": "< 3 km",
+  "waktu_data": "2026-03-10 22:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
