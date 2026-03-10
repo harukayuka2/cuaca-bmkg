@@ -1,0 +1,19 @@
+{
+  "provinsi": "Banten",
+  "kota": "Kota Serang",
+  "kecamatan": "Kasemen",
+  "desa": "Banten",
+  "adm4": "36.73.02.1007",
+  "cuaca": "Berawan",
+  "cuaca_en": "Mostly Cloudy",
+  "curah_hujan": 0,
+  "kecepatan_angin": 14.3,
+  "arah_angin": "SW",
+  "arah_angin_deg": 265,
+  "suhu": 27,
+  "kelembaban": 83,
+  "tutupan_awan": 99,
+  "jarak_pandang": "> 10 km",
+  "waktu_data": "2026-03-10 19:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
