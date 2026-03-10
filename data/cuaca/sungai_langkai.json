@@ -1,0 +1,19 @@
+{
+  "provinsi": "Kepulauan Riau",
+  "kota": "Kota Batam",
+  "kecamatan": "Sagulung",
+  "desa": "Sungai Langkai",
+  "adm4": "21.71.11.1005",
+  "cuaca": "Berawan",
+  "cuaca_en": "Mostly Cloudy",
+  "curah_hujan": 0.2,
+  "kecepatan_angin": 13.9,
+  "arah_angin": "NE",
+  "arah_angin_deg": 46,
+  "suhu": 29,
+  "kelembaban": 69,
+  "tutupan_awan": 100,
+  "jarak_pandang": "> 10 km",
+  "waktu_data": "2026-03-10 18:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
