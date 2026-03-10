@@ -1,0 +1,19 @@
+{
+  "provinsi": "Sulawesi Barat",
+  "kota": "Pasangkayu",
+  "kecamatan": "Baras",
+  "desa": "Motu",
+  "adm4": "76.01.03.2003",
+  "cuaca": "Berawan",
+  "cuaca_en": "Mostly Cloudy",
+  "curah_hujan": 0.6,
+  "kecepatan_angin": 3,
+  "arah_angin": "S",
+  "arah_angin_deg": 185,
+  "suhu": 23,
+  "kelembaban": 96,
+  "tutupan_awan": 100,
+  "jarak_pandang": "< 7 km",
+  "waktu_data": "2026-03-10 22:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
