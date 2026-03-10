@@ -1,0 +1,19 @@
+{
+  "provinsi": "Jawa Tengah",
+  "kota": "Kota Semarang",
+  "kecamatan": "Ngaliyan",
+  "desa": "Ngaliyan",
+  "adm4": "33.74.15.1007",
+  "cuaca": "Berawan",
+  "cuaca_en": "Mostly Cloudy",
+  "curah_hujan": 0,
+  "kecepatan_angin": 5,
+  "arah_angin": "SW",
+  "arah_angin_deg": 258,
+  "suhu": 25,
+  "kelembaban": 94,
+  "tutupan_awan": 100,
+  "jarak_pandang": "< 7 km",
+  "waktu_data": "2026-03-10 19:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
