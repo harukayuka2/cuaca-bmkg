@@ -1,0 +1,19 @@
+{
+  "provinsi": "Kalimantan Tengah",
+  "kota": "Kota Palangkaraya",
+  "kecamatan": "Bukit Batu",
+  "desa": "Banturung",
+  "adm4": "62.71.02.1003",
+  "cuaca": "Hujan Ringan",
+  "cuaca_en": "Light Rain",
+  "curah_hujan": 1.4,
+  "kecepatan_angin": 3.8,
+  "arah_angin": "SW",
+  "arah_angin_deg": 268,
+  "suhu": 25,
+  "kelembaban": 97,
+  "tutupan_awan": 84,
+  "jarak_pandang": "< 8 km",
+  "waktu_data": "2026-03-10 20:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
