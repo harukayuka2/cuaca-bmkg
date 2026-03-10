@@ -1,0 +1,19 @@
+{
+  "provinsi": "Bali",
+  "kota": "Kota Denpasar",
+  "kecamatan": "Denpasar Utara",
+  "desa": "Dauh Puri Kaja",
+  "adm4": "51.71.04.2006",
+  "cuaca": "Hujan Ringan",
+  "cuaca_en": "Light Rain",
+  "curah_hujan": 2,
+  "kecepatan_angin": 14.6,
+  "arah_angin": "SW",
+  "arah_angin_deg": 269,
+  "suhu": 24,
+  "kelembaban": 94,
+  "tutupan_awan": 100,
+  "jarak_pandang": "< 7 km",
+  "waktu_data": "2026-03-10 21:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
