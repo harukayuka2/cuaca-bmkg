@@ -1,0 +1,19 @@
+{
+  "provinsi": "Bengkulu",
+  "kota": "Kota Bengkulu",
+  "kecamatan": "Muara Bangka Hulu",
+  "desa": "Rawa Makmur Permai",
+  "adm4": "17.71.04.1007",
+  "cuaca": "Berawan",
+  "cuaca_en": "Mostly Cloudy",
+  "curah_hujan": 0.3,
+  "kecepatan_angin": 3.5,
+  "arah_angin": "NE",
+  "arah_angin_deg": 48,
+  "suhu": 25,
+  "kelembaban": 91,
+  "tutupan_awan": 100,
+  "jarak_pandang": "> 10 km",
+  "waktu_data": "2026-03-10 18:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
