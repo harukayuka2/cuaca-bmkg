@@ -7,13 +7,13 @@
   "cuaca": "Berawan",
   "cuaca_en": "Mostly Cloudy",
   "curah_hujan": 0,
-  "kecepatan_angin": 8.4,
-  "arah_angin": "SW",
-  "arah_angin_deg": 250,
-  "suhu": 26,
-  "kelembaban": 87,
+  "kecepatan_angin": 5,
+  "arah_angin": "W",
+  "arah_angin_deg": 291,
+  "suhu": 24,
+  "kelembaban": 90,
   "tutupan_awan": 100,
   "jarak_pandang": "> 10 km",
-  "waktu_data": "2026-03-10 18:00:00",
-  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+  "waktu_data": "2026-03-10 21:00:00",
+  "tanggal_ambil": "2026-03-10T18:59:45 WIB"
 }
