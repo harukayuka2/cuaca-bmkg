@@ -1,0 +1,19 @@
+{
+  "provinsi": "Gorontalo",
+  "kota": "Kota Gorontalo",
+  "kecamatan": "Kota Barat",
+  "desa": "Dembe I",
+  "adm4": "75.71.01.1001",
+  "cuaca": "Cerah Berawan",
+  "cuaca_en": "Partly Cloudy",
+  "curah_hujan": 0,
+  "kecepatan_angin": 14.6,
+  "arah_angin": "NW",
+  "arah_angin_deg": 347,
+  "suhu": 28,
+  "kelembaban": 86,
+  "tutupan_awan": 87,
+  "jarak_pandang": "> 10 km",
+  "waktu_data": "2026-03-10 21:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
