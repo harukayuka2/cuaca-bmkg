@@ -1,0 +1,19 @@
+{
+  "provinsi": "Nusa Tenggara Timur",
+  "kota": "Kota Kupang",
+  "kecamatan": "Alak",
+  "desa": "Manulai II",
+  "adm4": "53.71.01.1010",
+  "cuaca": "Hujan Ringan",
+  "cuaca_en": "Light Rain",
+  "curah_hujan": 1.7,
+  "kecepatan_angin": 0.6,
+  "arah_angin": "SE",
+  "arah_angin_deg": 158,
+  "suhu": 26,
+  "kelembaban": 93,
+  "tutupan_awan": 99,
+  "jarak_pandang": "< 4 km",
+  "waktu_data": "2026-03-10 21:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
