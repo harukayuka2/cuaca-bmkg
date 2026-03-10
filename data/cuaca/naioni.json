@@ -1,0 +1,19 @@
+{
+  "provinsi": "Nusa Tenggara Timur",
+  "kota": "Kota Kupang",
+  "kecamatan": "Alak",
+  "desa": "Naioni",
+  "adm4": "53.71.01.1011",
+  "cuaca": "Hujan Ringan",
+  "cuaca_en": "Light Rain",
+  "curah_hujan": 1.7,
+  "kecepatan_angin": 4,
+  "arah_angin": "NW",
+  "arah_angin_deg": 339,
+  "suhu": 26,
+  "kelembaban": 97,
+  "tutupan_awan": 99,
+  "jarak_pandang": "< 4 km",
+  "waktu_data": "2026-03-10 21:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
