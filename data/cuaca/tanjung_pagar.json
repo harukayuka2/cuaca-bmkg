@@ -1,0 +1,19 @@
+{
+  "provinsi": "Kalimantan Selatan",
+  "kota": "Kota Banjarmasin",
+  "kecamatan": "Banjarmasin Selatan",
+  "desa": "Tanjung Pagar",
+  "adm4": "63.71.01.1009",
+  "cuaca": "Berawan",
+  "cuaca_en": "Mostly Cloudy",
+  "curah_hujan": 0,
+  "kecepatan_angin": 5,
+  "arah_angin": "SW",
+  "arah_angin_deg": 264,
+  "suhu": 26,
+  "kelembaban": 87,
+  "tutupan_awan": 99,
+  "jarak_pandang": "> 10 km",
+  "waktu_data": "2026-03-10 21:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
