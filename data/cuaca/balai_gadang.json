@@ -1,0 +1,19 @@
+{
+  "provinsi": "Sumatera Barat",
+  "kota": "Kota Padang",
+  "kecamatan": "Koto Tangah",
+  "desa": "Balai Gadang",
+  "adm4": "13.71.11.1001",
+  "cuaca": "Berawan",
+  "cuaca_en": "Mostly Cloudy",
+  "curah_hujan": 0.8,
+  "kecepatan_angin": 0.7,
+  "arah_angin": "SW",
+  "arah_angin_deg": 233,
+  "suhu": 22,
+  "kelembaban": 99,
+  "tutupan_awan": 100,
+  "jarak_pandang": "< 8 km",
+  "waktu_data": "2026-03-10 18:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
