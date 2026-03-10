@@ -1,0 +1,19 @@
+{
+  "provinsi": "Kalimantan Tengah",
+  "kota": "Kota Palangkaraya",
+  "kecamatan": "Bukit Batu",
+  "desa": "Kanarakan",
+  "adm4": "62.71.02.1006",
+  "cuaca": "Hujan Ringan",
+  "cuaca_en": "Light Rain",
+  "curah_hujan": 1,
+  "kecepatan_angin": 3.6,
+  "arah_angin": "S",
+  "arah_angin_deg": 192,
+  "suhu": 25,
+  "kelembaban": 98,
+  "tutupan_awan": 84,
+  "jarak_pandang": "< 6 km",
+  "waktu_data": "2026-03-10 19:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
