@@ -1,0 +1,19 @@
+{
+  "provinsi": "Kalimantan Utara",
+  "kota": "Nunukan",
+  "kecamatan": "Lumbis Ogong",
+  "desa": "Sanal",
+  "adm4": "65.03.15.2025",
+  "cuaca": "Cerah Berawan",
+  "cuaca_en": "Partly Cloudy",
+  "curah_hujan": 0.5,
+  "kecepatan_angin": 1.7,
+  "arah_angin": "N",
+  "arah_angin_deg": 20,
+  "suhu": 22,
+  "kelembaban": 99,
+  "tutupan_awan": 60,
+  "jarak_pandang": "< 7 km",
+  "waktu_data": "2026-03-10 22:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
