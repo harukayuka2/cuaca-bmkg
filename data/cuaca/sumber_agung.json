@@ -1,0 +1,19 @@
+{
+  "provinsi": "Lampung",
+  "kota": "Kota Bandar Lampung",
+  "kecamatan": "Kemiling",
+  "desa": "Sumber Agung",
+  "adm4": "18.71.13.1005",
+  "cuaca": "Hujan Ringan",
+  "cuaca_en": "Light Rain",
+  "curah_hujan": 3.9,
+  "kecepatan_angin": 2.9,
+  "arah_angin": "W",
+  "arah_angin_deg": 304,
+  "suhu": 23,
+  "kelembaban": 98,
+  "tutupan_awan": 100,
+  "jarak_pandang": "> 10 km",
+  "waktu_data": "2026-03-10 19:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
