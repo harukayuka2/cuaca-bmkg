@@ -1,0 +1,19 @@
+{
+  "provinsi": "Kalimantan Utara",
+  "kota": "Nunukan",
+  "kecamatan": "Sei Menggaris",
+  "desa": "Sekaduyan Taka",
+  "adm4": "65.03.13.2004",
+  "cuaca": "Cerah Berawan",
+  "cuaca_en": "Partly Cloudy",
+  "curah_hujan": 0.2,
+  "kecepatan_angin": 6.7,
+  "arah_angin": "S",
+  "arah_angin_deg": 216,
+  "suhu": 24,
+  "kelembaban": 99,
+  "tutupan_awan": 64,
+  "jarak_pandang": "> 10 km",
+  "waktu_data": "2026-03-10 22:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
