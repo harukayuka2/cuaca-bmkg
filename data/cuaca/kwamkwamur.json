@@ -1,0 +1,19 @@
+{
+  "provinsi": "Papua Barat",
+  "kota": "Fak Fak",
+  "kecamatan": "Kramongmongga",
+  "desa": "Kwamkwamur",
+  "adm4": "92.03.08.2011",
+  "cuaca": "Berawan",
+  "cuaca_en": "Mostly Cloudy",
+  "curah_hujan": 0.1,
+  "kecepatan_angin": 7.3,
+  "arah_angin": "SW",
+  "arah_angin_deg": 265,
+  "suhu": 22,
+  "kelembaban": 98,
+  "tutupan_awan": 100,
+  "jarak_pandang": "< 7 km",
+  "waktu_data": "2026-03-10 23:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
