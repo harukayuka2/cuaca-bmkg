@@ -1,0 +1,19 @@
+{
+  "provinsi": "Sulawesi Selatan",
+  "kota": "Kota Makassar",
+  "kecamatan": "Ujung Tanah",
+  "desa": "Tamalabba",
+  "adm4": "73.71.08.1010",
+  "cuaca": "Berawan",
+  "cuaca_en": "Mostly Cloudy",
+  "curah_hujan": 0.1,
+  "kecepatan_angin": 10,
+  "arah_angin": "NE",
+  "arah_angin_deg": 54,
+  "suhu": 25,
+  "kelembaban": 92,
+  "tutupan_awan": 95,
+  "jarak_pandang": "> 10 km",
+  "waktu_data": "2026-03-10 22:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
