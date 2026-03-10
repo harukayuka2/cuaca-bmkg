@@ -1,0 +1,19 @@
+{
+  "provinsi": "Kalimantan Timur",
+  "kota": "Kota Samarinda",
+  "kecamatan": "Palaran",
+  "desa": "Bukuan",
+  "adm4": "64.72.01.1003",
+  "cuaca": "Berawan",
+  "cuaca_en": "Mostly Cloudy",
+  "curah_hujan": 0.1,
+  "kecepatan_angin": 5.3,
+  "arah_angin": "SW",
+  "arah_angin_deg": 244,
+  "suhu": 24,
+  "kelembaban": 96,
+  "tutupan_awan": 100,
+  "jarak_pandang": "< 8 km",
+  "waktu_data": "2026-03-10 22:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
