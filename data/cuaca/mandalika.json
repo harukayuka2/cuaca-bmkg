@@ -1,0 +1,19 @@
+{
+  "provinsi": "Nusa Tenggara Barat",
+  "kota": "Kota Mataram",
+  "kecamatan": "Sandubaya",
+  "desa": "Mandalika",
+  "adm4": "52.71.06.1007",
+  "cuaca": "Berawan",
+  "cuaca_en": "Mostly Cloudy",
+  "curah_hujan": 1,
+  "kecepatan_angin": 3.9,
+  "arah_angin": "N",
+  "arah_angin_deg": 4,
+  "suhu": 25,
+  "kelembaban": 94,
+  "tutupan_awan": 95,
+  "jarak_pandang": "< 7 km",
+  "waktu_data": "2026-03-10 21:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
