@@ -1,0 +1,19 @@
+{
+  "provinsi": "Aceh",
+  "kota": "Kota Banda Aceh",
+  "kecamatan": "Kuta Alam",
+  "desa": "Bandar Baru",
+  "adm4": "11.71.02.2008",
+  "cuaca": "Berawan",
+  "cuaca_en": "Mostly Cloudy",
+  "curah_hujan": 0.1,
+  "kecepatan_angin": 4.5,
+  "arah_angin": "E",
+  "arah_angin_deg": 126,
+  "suhu": 28,
+  "kelembaban": 74,
+  "tutupan_awan": 98,
+  "jarak_pandang": "> 10 km",
+  "waktu_data": "2026-03-10 18:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
