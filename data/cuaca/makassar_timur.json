@@ -1,0 +1,19 @@
+{
+  "provinsi": "Maluku Utara",
+  "kota": "Kota Ternate",
+  "kecamatan": "Kota Ternate Tengah",
+  "desa": "Makassar Timur",
+  "adm4": "82.71.06.1014",
+  "cuaca": "Cerah Berawan",
+  "cuaca_en": "Partly Cloudy",
+  "curah_hujan": 0.4,
+  "kecepatan_angin": 16.9,
+  "arah_angin": "NW",
+  "arah_angin_deg": 349,
+  "suhu": 26,
+  "kelembaban": 86,
+  "tutupan_awan": 87,
+  "jarak_pandang": "> 10 km",
+  "waktu_data": "2026-03-11 00:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
