@@ -4,16 +4,16 @@
   "kecamatan": "Pekanbaru Kota",
   "desa": "Simpang Empat",
   "adm4": "14.71.02.1001",
-  "cuaca": "Cerah",
-  "cuaca_en": "Sunny",
+  "cuaca": "Berawan",
+  "cuaca_en": "Mostly Cloudy",
   "curah_hujan": 0,
   "kecepatan_angin": 7,
   "arah_angin": "NW",
   "arah_angin_deg": 342,
-  "suhu": 32,
-  "kelembaban": 51,
-  "tutupan_awan": 32,
+  "suhu": 29,
+  "kelembaban": 63,
+  "tutupan_awan": 93,
   "jarak_pandang": "< 8 km",
-  "waktu_data": "2026-03-10 17:00:00",
-  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+  "waktu_data": "2026-03-10 19:00:00",
+  "tanggal_ambil": "2026-03-10T18:59:27 WIB"
 }
