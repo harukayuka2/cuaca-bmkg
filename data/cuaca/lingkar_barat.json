@@ -1,0 +1,19 @@
+{
+  "provinsi": "Bengkulu",
+  "kota": "Kota Bengkulu",
+  "kecamatan": "Gading Cempaka",
+  "desa": "Lingkar Barat",
+  "adm4": "17.71.02.1024",
+  "cuaca": "Berawan",
+  "cuaca_en": "Mostly Cloudy",
+  "curah_hujan": 0.7,
+  "kecepatan_angin": 6.6,
+  "arah_angin": "N",
+  "arah_angin_deg": 45,
+  "suhu": 25,
+  "kelembaban": 93,
+  "tutupan_awan": 100,
+  "jarak_pandang": "> 10 km",
+  "waktu_data": "2026-03-10 18:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
