@@ -1,0 +1,19 @@
+{
+  "provinsi": "Papua Barat",
+  "kota": "Fak Fak",
+  "kecamatan": "Furwagi",
+  "desa": "Werfra",
+  "adm4": "92.03.16.2005",
+  "cuaca": "Hujan Ringan",
+  "cuaca_en": "Light Rain",
+  "curah_hujan": 2.7,
+  "kecepatan_angin": 18.9,
+  "arah_angin": "NW",
+  "arah_angin_deg": 320,
+  "suhu": 26,
+  "kelembaban": 86,
+  "tutupan_awan": 100,
+  "jarak_pandang": "< 7 km",
+  "waktu_data": "2026-03-11 00:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
