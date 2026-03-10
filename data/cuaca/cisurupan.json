@@ -1,0 +1,19 @@
+{
+  "provinsi": "Jawa Barat",
+  "kota": "Kota Bandung",
+  "kecamatan": "Cibiru",
+  "desa": "Cisurupan",
+  "adm4": "32.73.25.1004",
+  "cuaca": "Berawan",
+  "cuaca_en": "Mostly Cloudy",
+  "curah_hujan": 0,
+  "kecepatan_angin": 0.6,
+  "arah_angin": "NE",
+  "arah_angin_deg": 80,
+  "suhu": 23,
+  "kelembaban": 93,
+  "tutupan_awan": 100,
+  "jarak_pandang": "> 10 km",
+  "waktu_data": "2026-03-10 19:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
