@@ -1,0 +1,19 @@
+{
+  "provinsi": "Sulawesi Tengah",
+  "kota": "Kota Palu",
+  "kecamatan": "Tawaeli",
+  "desa": "Lambara",
+  "adm4": "72.71.07.1004",
+  "cuaca": "Berawan",
+  "cuaca_en": "Mostly Cloudy",
+  "curah_hujan": 0.1,
+  "kecepatan_angin": 12.9,
+  "arah_angin": "NW",
+  "arah_angin_deg": 321,
+  "suhu": 26,
+  "kelembaban": 91,
+  "tutupan_awan": 100,
+  "jarak_pandang": "< 9 km",
+  "waktu_data": "2026-03-10 22:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
