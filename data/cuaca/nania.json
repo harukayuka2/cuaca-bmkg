@@ -1,0 +1,19 @@
+{
+  "provinsi": "Maluku",
+  "kota": "Kota Ambon",
+  "kecamatan": "Baguala",
+  "desa": "Nania",
+  "adm4": "81.71.03.2005",
+  "cuaca": "Berawan",
+  "cuaca_en": "Mostly Cloudy",
+  "curah_hujan": 0.2,
+  "kecepatan_angin": 7.9,
+  "arah_angin": "NW",
+  "arah_angin_deg": 322,
+  "suhu": 24,
+  "kelembaban": 96,
+  "tutupan_awan": 100,
+  "jarak_pandang": "> 10 km",
+  "waktu_data": "2026-03-11 00:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
