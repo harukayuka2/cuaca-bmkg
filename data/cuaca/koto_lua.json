@@ -1,0 +1,19 @@
+{
+  "provinsi": "Sumatera Barat",
+  "kota": "Kota Padang",
+  "kecamatan": "Pauh",
+  "desa": "Koto Lua",
+  "adm4": "13.71.08.1002",
+  "cuaca": "Berawan",
+  "cuaca_en": "Mostly Cloudy",
+  "curah_hujan": 0.4,
+  "kecepatan_angin": 1.2,
+  "arah_angin": "S",
+  "arah_angin_deg": 212,
+  "suhu": 22,
+  "kelembaban": 96,
+  "tutupan_awan": 100,
+  "jarak_pandang": "< 8 km",
+  "waktu_data": "2026-03-10 18:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
