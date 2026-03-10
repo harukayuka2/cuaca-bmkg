@@ -1,0 +1,19 @@
+{
+  "provinsi": "Aceh",
+  "kota": "Kota Banda Aceh",
+  "kecamatan": "Banda Raya",
+  "desa": "Lamlagang",
+  "adm4": "11.71.07.2002",
+  "cuaca": "Berawan",
+  "cuaca_en": "Mostly Cloudy",
+  "curah_hujan": 0,
+  "kecepatan_angin": 4.9,
+  "arah_angin": "SW",
+  "arah_angin_deg": 233,
+  "suhu": 26,
+  "kelembaban": 88,
+  "tutupan_awan": 96,
+  "jarak_pandang": "> 10 km",
+  "waktu_data": "2026-03-10 20:00:00",
+  "tanggal_ambil": "2026-03-10T18:59:27 WIB"
+}
