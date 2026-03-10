@@ -1,0 +1,19 @@
+{
+  "provinsi": "Papua Barat",
+  "kota": "Fak Fak",
+  "kecamatan": "Fakfak Timur Tengah",
+  "desa": "Wayati Barat",
+  "adm4": "92.03.12.2008",
+  "cuaca": "Berawan",
+  "cuaca_en": "Mostly Cloudy",
+  "curah_hujan": 0,
+  "kecepatan_angin": 7.2,
+  "arah_angin": "NW",
+  "arah_angin_deg": 322,
+  "suhu": 20,
+  "kelembaban": 99,
+  "tutupan_awan": 100,
+  "jarak_pandang": "< 7 km",
+  "waktu_data": "2026-03-11 00:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
