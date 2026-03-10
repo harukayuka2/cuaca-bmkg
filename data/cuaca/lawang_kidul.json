@@ -1,0 +1,19 @@
+{
+  "provinsi": "Sumatera Selatan",
+  "kota": "Kota Palembang",
+  "kecamatan": "Ilir Timur Dua",
+  "desa": "Lawangkidul",
+  "adm4": "16.71.06.1009",
+  "cuaca": "Cerah",
+  "cuaca_en": "Sunny",
+  "curah_hujan": 0,
+  "kecepatan_angin": 4.9,
+  "arah_angin": "N",
+  "arah_angin_deg": 34,
+  "suhu": 29,
+  "kelembaban": 73,
+  "tutupan_awan": 50,
+  "jarak_pandang": "> 10 km",
+  "waktu_data": "2026-03-10 17:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
