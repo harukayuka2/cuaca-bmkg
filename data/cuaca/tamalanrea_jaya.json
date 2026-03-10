@@ -1,0 +1,19 @@
+{
+  "provinsi": "Sulawesi Selatan",
+  "kota": "Kota Makassar",
+  "kecamatan": "Tamalanrea",
+  "desa": "Tamalanrea Jaya",
+  "adm4": "73.71.14.1006",
+  "cuaca": "Berawan",
+  "cuaca_en": "Mostly Cloudy",
+  "curah_hujan": 0,
+  "kecepatan_angin": 7,
+  "arah_angin": "N",
+  "arah_angin_deg": 30,
+  "suhu": 24,
+  "kelembaban": 93,
+  "tutupan_awan": 100,
+  "jarak_pandang": "< 8 km",
+  "waktu_data": "2026-03-10 22:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
