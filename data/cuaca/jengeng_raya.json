@@ -1,0 +1,19 @@
+{
+  "provinsi": "Sulawesi Barat",
+  "kota": "Pasangkayu",
+  "kecamatan": "Tikke Raya",
+  "desa": "Jengeng Raya",
+  "adm4": "76.01.08.2005",
+  "cuaca": "Hujan Ringan",
+  "cuaca_en": "Light Rain",
+  "curah_hujan": 3.1,
+  "kecepatan_angin": 4.6,
+  "arah_angin": "SW",
+  "arah_angin_deg": 233,
+  "suhu": 24,
+  "kelembaban": 94,
+  "tutupan_awan": 100,
+  "jarak_pandang": "< 7 km",
+  "waktu_data": "2026-03-10 22:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
