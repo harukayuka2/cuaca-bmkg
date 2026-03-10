@@ -1,0 +1,19 @@
+{
+  "provinsi": "Kepulauan Riau",
+  "kota": "Kota Batam",
+  "kecamatan": "Belakang Padang",
+  "desa": "Pulau Terung",
+  "adm4": "21.71.01.1004",
+  "cuaca": "Berawan",
+  "cuaca_en": "Mostly Cloudy",
+  "curah_hujan": 0.1,
+  "kecepatan_angin": 25,
+  "arah_angin": "NE",
+  "arah_angin_deg": 50,
+  "suhu": 28,
+  "kelembaban": 72,
+  "tutupan_awan": 100,
+  "jarak_pandang": "> 10 km",
+  "waktu_data": "2026-03-10 19:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
