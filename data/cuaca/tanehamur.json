@@ -1,0 +1,19 @@
+{
+  "provinsi": "Papua Barat",
+  "kota": "Fak Fak",
+  "kecamatan": "Furwagi",
+  "desa": "Tanehamur",
+  "adm4": "92.03.16.2006",
+  "cuaca": "Hujan Ringan",
+  "cuaca_en": "Light Rain",
+  "curah_hujan": 1.4,
+  "kecepatan_angin": 10.9,
+  "arah_angin": "NW",
+  "arah_angin_deg": 324,
+  "suhu": 24,
+  "kelembaban": 93,
+  "tutupan_awan": 100,
+  "jarak_pandang": "< 8 km",
+  "waktu_data": "2026-03-10 23:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
