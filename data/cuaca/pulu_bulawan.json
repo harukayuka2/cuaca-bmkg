@@ -1,0 +1,19 @@
+{
+  "provinsi": "Kalimantan Utara",
+  "kota": "Nunukan",
+  "kecamatan": "Lumbis",
+  "desa": "Pulu Bulawan",
+  "adm4": "65.03.04.2018",
+  "cuaca": "Hujan Ringan",
+  "cuaca_en": "Light Rain",
+  "curah_hujan": 1.3,
+  "kecepatan_angin": 4.8,
+  "arah_angin": "NW",
+  "arah_angin_deg": 355,
+  "suhu": 23,
+  "kelembaban": 99,
+  "tutupan_awan": 60,
+  "jarak_pandang": "< 7 km",
+  "waktu_data": "2026-03-10 22:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
