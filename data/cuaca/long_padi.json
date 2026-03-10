@@ -1,0 +1,19 @@
+{
+  "provinsi": "Kalimantan Utara",
+  "kota": "Nunukan",
+  "kecamatan": "Krayan Tengah",
+  "desa": "Long Padi",
+  "adm4": "65.03.17.2004",
+  "cuaca": "Udara Kabur",
+  "cuaca_en": "Mist/Haze",
+  "curah_hujan": 0,
+  "kecepatan_angin": 0.3,
+  "arah_angin": "NW",
+  "arah_angin_deg": 340,
+  "suhu": 18,
+  "kelembaban": 98,
+  "tutupan_awan": 60,
+  "jarak_pandang": "< 4 km",
+  "waktu_data": "2026-03-10 22:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
