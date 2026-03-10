@@ -1,0 +1,19 @@
+{
+  "provinsi": "Kalimantan Timur",
+  "kota": "Kota Samarinda",
+  "kecamatan": "Samarinda Utara",
+  "desa": "Budaya Pampang",
+  "adm4": "64.72.05.1014",
+  "cuaca": "Berawan",
+  "cuaca_en": "Mostly Cloudy",
+  "curah_hujan": 0.6,
+  "kecepatan_angin": 3.6,
+  "arah_angin": "SW",
+  "arah_angin_deg": 252,
+  "suhu": 23,
+  "kelembaban": 97,
+  "tutupan_awan": 99,
+  "jarak_pandang": "< 8 km",
+  "waktu_data": "2026-03-10 22:00:00",
+  "tanggal_ambil": "2026-03-10T17:12:05 WIB"
+}
