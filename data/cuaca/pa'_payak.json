@@ -4,16 +4,16 @@
   "kecamatan": "Krayan Barat",
   "desa": "Pa' Payak",
   "adm4": "65.03.19.2015",
-  "cuaca": "Hujan Ringan",
-  "cuaca_en": "Light Rain",
-  "curah_hujan": 3,
+  "cuaca": "Cerah Berawan",
+  "cuaca_en": "Partly Cloudy",
+  "curah_hujan": 0,
   "kecepatan_angin": 2.2,
   "arah_angin": "E",
   "arah_angin_deg": 132,
-  "suhu": 21,
-  "kelembaban": 85,
+  "suhu": 22,
+  "kelembaban": 77,
   "tutupan_awan": 80,
   "jarak_pandang": "> 10 km",
-  "waktu_data": "2026-03-11 11:00:00",
-  "tanggal_ambil": "2026-03-11T06:53:01 WIB"
+  "waktu_data": "2026-03-11 10:00:00",
+  "tanggal_ambil": "2026-03-11T06:53:55 WIB"
 }
