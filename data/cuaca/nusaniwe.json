@@ -3,17 +3,17 @@
   "kota": "Kota Ambon",
   "kecamatan": "Nusaniwe",
   "desa": "Nusaniwe",
-  "adm4": "81.71.01.1006",
+  "adm4": "81.71.01.2003",
   "cuaca": "Berawan",
   "cuaca_en": "Mostly Cloudy",
-  "curah_hujan": 0.8,
-  "kecepatan_angin": 16,
-  "arah_angin": "NW",
-  "arah_angin_deg": 316,
+  "curah_hujan": 0.5,
+  "kecepatan_angin": 26.1,
+  "arah_angin": "W",
+  "arah_angin_deg": 314,
   "suhu": 29,
   "kelembaban": 69,
   "tutupan_awan": 100,
   "jarak_pandang": "> 10 km",
   "waktu_data": "2026-03-11 13:00:00",
-  "tanggal_ambil": "2026-03-11T06:53:01 WIB"
+  "tanggal_ambil": "2026-03-11T06:53:55 WIB"
 }
