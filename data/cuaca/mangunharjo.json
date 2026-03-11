@@ -1,19 +1,19 @@
 {
   "provinsi": "Jawa Tengah",
   "kota": "Kota Semarang",
-  "kecamatan": "Tugu",
+  "kecamatan": "Tembalang",
   "desa": "Mangunharjo",
-  "adm4": "33.74.16.1007",
+  "adm4": "33.74.10.1003",
   "cuaca": "Cerah Berawan",
   "cuaca_en": "Partly Cloudy",
   "curah_hujan": 0,
-  "kecepatan_angin": 8.7,
-  "arah_angin": "NW",
-  "arah_angin_deg": 350,
-  "suhu": 28,
-  "kelembaban": 73,
-  "tutupan_awan": 75,
+  "kecepatan_angin": 7.6,
+  "arah_angin": "N",
+  "arah_angin_deg": 13,
+  "suhu": 29,
+  "kelembaban": 63,
+  "tutupan_awan": 61,
   "jarak_pandang": "< 8 km",
   "waktu_data": "2026-03-11 09:00:00",
-  "tanggal_ambil": "2026-03-11T06:53:55 WIB"
+  "tanggal_ambil": "2026-03-11T06:53:01 WIB"
 }
