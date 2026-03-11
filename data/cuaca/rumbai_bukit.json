@@ -9,11 +9,11 @@
   "curah_hujan": 0,
   "kecepatan_angin": 4.9,
   "arah_angin": "NE",
-  "arah_angin_deg": 70,
-  "suhu": 28,
-  "kelembaban": 72,
-  "tutupan_awan": 32,
-  "jarak_pandang": "< 9 km",
-  "waktu_data": "2026-03-11 08:00:00",
-  "tanggal_ambil": "2026-03-11T06:53:01 WIB"
+  "arah_angin_deg": 69,
+  "suhu": 26,
+  "kelembaban": 74,
+  "tutupan_awan": 5,
+  "jarak_pandang": "> 10 km",
+  "waktu_data": "2026-03-11 20:00:00",
+  "tanggal_ambil": "2026-03-11T18:59:31 WIB"
 }
