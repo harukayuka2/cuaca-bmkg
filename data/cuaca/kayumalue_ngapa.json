@@ -6,14 +6,14 @@
   "adm4": "72.71.04.1003",
   "cuaca": "Berawan",
   "cuaca_en": "Mostly Cloudy",
-  "curah_hujan": 0.1,
-  "kecepatan_angin": 12.1,
+  "curah_hujan": 0.2,
+  "kecepatan_angin": 8.9,
   "arah_angin": "NW",
-  "arah_angin_deg": 355,
-  "suhu": 25,
-  "kelembaban": 93,
+  "arah_angin_deg": 340,
+  "suhu": 28,
+  "kelembaban": 69,
   "tutupan_awan": 100,
-  "jarak_pandang": "< 9 km",
-  "waktu_data": "2026-03-10 23:00:00",
-  "tanggal_ambil": "2026-03-10T18:59:45 WIB"
+  "jarak_pandang": "< 10 km",
+  "waktu_data": "2026-03-11 11:00:00",
+  "tanggal_ambil": "2026-03-11T06:53:01 WIB"
 }
