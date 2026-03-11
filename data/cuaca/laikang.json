@@ -6,14 +6,14 @@
   "adm4": "73.71.11.1008",
   "cuaca": "Hujan Ringan",
   "cuaca_en": "Light Rain",
-  "curah_hujan": 2.3,
+  "curah_hujan": 3,
   "kecepatan_angin": 4.7,
   "arah_angin": "E",
   "arah_angin_deg": 105,
-  "suhu": 24,
-  "kelembaban": 97,
+  "suhu": 23,
+  "kelembaban": 96,
   "tutupan_awan": 95,
   "jarak_pandang": "> 10 km",
-  "waktu_data": "2026-03-11 00:00:00",
-  "tanggal_ambil": "2026-03-10T18:59:27 WIB"
+  "waktu_data": "2026-03-11 02:00:00",
+  "tanggal_ambil": "2026-03-11T06:53:01 WIB"
 }
