@@ -10,10 +10,10 @@
   "kecepatan_angin": 7.5,
   "arah_angin": "NW",
   "arah_angin_deg": 318,
-  "suhu": 28,
-  "kelembaban": 79,
+  "suhu": 29,
+  "kelembaban": 75,
   "tutupan_awan": 100,
   "jarak_pandang": "> 10 km",
-  "waktu_data": "2026-03-12 10:00:00",
-  "tanggal_ambil": "2026-03-12T06:53:45 WIB"
+  "waktu_data": "2026-03-12 11:00:00",
+  "tanggal_ambil": "2026-03-12T06:53:52 WIB"
 }
