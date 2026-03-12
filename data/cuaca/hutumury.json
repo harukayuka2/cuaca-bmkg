@@ -7,13 +7,13 @@
   "cuaca": "Hujan Ringan",
   "cuaca_en": "Light Rain",
   "curah_hujan": 1.7,
-  "kecepatan_angin": 14.6,
+  "kecepatan_angin": 9.4,
   "arah_angin": "NW",
-  "arah_angin_deg": 315,
-  "suhu": 29,
-  "kelembaban": 70,
+  "arah_angin_deg": 338,
+  "suhu": 24,
+  "kelembaban": 93,
   "tutupan_awan": 100,
   "jarak_pandang": "> 10 km",
-  "waktu_data": "2026-03-12 13:00:00",
-  "tanggal_ambil": "2026-03-12T06:53:52 WIB"
+  "waktu_data": "2026-03-13 01:00:00",
+  "tanggal_ambil": "2026-03-12T18:53:31 WIB"
 }
