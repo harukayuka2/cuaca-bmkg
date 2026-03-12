@@ -1,19 +1,19 @@
 {
   "provinsi": "Jawa Tengah",
   "kota": "Kota Semarang",
-  "kecamatan": "Mijen",
+  "kecamatan": "Semarang Utara",
   "desa": "Purwosari",
-  "adm4": "33.74.14.1005",
+  "adm4": "33.74.02.1004",
   "cuaca": "Cerah",
   "cuaca_en": "Sunny",
   "curah_hujan": 0,
-  "kecepatan_angin": 3,
+  "kecepatan_angin": 5.5,
   "arah_angin": "SW",
-  "arah_angin_deg": 261,
-  "suhu": 28,
-  "kelembaban": 63,
-  "tutupan_awan": 24,
+  "arah_angin_deg": 230,
+  "suhu": 26,
+  "kelembaban": 85,
+  "tutupan_awan": 21,
   "jarak_pandang": "< 7 km",
-  "waktu_data": "2026-03-12 09:00:00",
-  "tanggal_ambil": "2026-03-12T06:53:45 WIB"
+  "waktu_data": "2026-03-12 21:00:00",
+  "tanggal_ambil": "2026-03-12T18:53:46 WIB"
 }
