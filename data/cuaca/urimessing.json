@@ -3,7 +3,7 @@
   "kota": "Kota Ambon",
   "kecamatan": "Nusaniwe",
   "desa": "Urimessing",
-  "adm4": "81.71.01.2005",
+  "adm4": "81.71.01.1011",
   "cuaca": "Berawan",
   "cuaca_en": "Mostly Cloudy",
   "curah_hujan": 0,
@@ -11,9 +11,9 @@
   "arah_angin": "NW",
   "arah_angin_deg": 331,
   "suhu": 24,
-  "kelembaban": 90,
+  "kelembaban": 92,
   "tutupan_awan": 100,
   "jarak_pandang": "> 10 km",
   "waktu_data": "2026-03-14 01:00:00",
-  "tanggal_ambil": "2026-03-13T18:57:31 WIB"
+  "tanggal_ambil": "2026-03-13T18:58:13 WIB"
 }
