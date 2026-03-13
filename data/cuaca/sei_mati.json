@@ -1,19 +1,19 @@
 {
   "provinsi": "Sumatera Utara",
   "kota": "Kota Medan",
-  "kecamatan": "Medan Maimun",
+  "kecamatan": "Medan Labuhan",
   "desa": "Sei Mati",
-  "adm4": "12.71.15.1005",
+  "adm4": "12.71.13.1002",
   "cuaca": "Cerah",
   "cuaca_en": "Sunny",
   "curah_hujan": 0,
-  "kecepatan_angin": 5.7,
+  "kecepatan_angin": 6.1,
   "arah_angin": "SW",
-  "arah_angin_deg": 245,
+  "arah_angin_deg": 232,
   "suhu": 25,
-  "kelembaban": 91,
-  "tutupan_awan": 47,
+  "kelembaban": 94,
+  "tutupan_awan": 56,
   "jarak_pandang": "> 10 km",
   "waktu_data": "2026-03-13 20:00:00",
-  "tanggal_ambil": "2026-03-13T18:58:13 WIB"
+  "tanggal_ambil": "2026-03-13T18:57:31 WIB"
 }
