@@ -6,14 +6,14 @@
   "adm4": "13.71.05.1005",
   "cuaca": "Cerah",
   "cuaca_en": "Sunny",
-  "curah_hujan": 0,
-  "kecepatan_angin": 5.8,
-  "arah_angin": "NE",
-  "arah_angin_deg": 90,
-  "suhu": 24,
-  "kelembaban": 91,
-  "tutupan_awan": 22,
+  "curah_hujan": 0.1,
+  "kecepatan_angin": 5.2,
+  "arah_angin": "SW",
+  "arah_angin_deg": 251,
+  "suhu": 26,
+  "kelembaban": 81,
+  "tutupan_awan": 28,
   "jarak_pandang": "> 10 km",
-  "waktu_data": "2026-03-12 20:00:00",
-  "tanggal_ambil": "2026-03-12T18:53:46 WIB"
+  "waktu_data": "2026-03-13 08:00:00",
+  "tanggal_ambil": "2026-03-13T06:54:33 WIB"
 }
