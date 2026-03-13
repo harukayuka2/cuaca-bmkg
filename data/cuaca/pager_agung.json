@@ -7,13 +7,13 @@
   "cuaca": "Cerah",
   "cuaca_en": "Sunny",
   "curah_hujan": 0,
-  "kecepatan_angin": 5.2,
-  "arah_angin": "S",
-  "arah_angin_deg": 216,
-  "suhu": 24,
-  "kelembaban": 94,
-  "tutupan_awan": 3,
+  "kecepatan_angin": 5,
+  "arah_angin": "SW",
+  "arah_angin_deg": 226,
+  "suhu": 27,
+  "kelembaban": 89,
+  "tutupan_awan": 15,
   "jarak_pandang": "> 10 km",
-  "waktu_data": "2026-03-12 22:00:00",
-  "tanggal_ambil": "2026-03-12T18:53:31 WIB"
+  "waktu_data": "2026-03-13 21:00:00",
+  "tanggal_ambil": "2026-03-13T18:58:13 WIB"
 }
