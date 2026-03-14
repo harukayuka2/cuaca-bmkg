@@ -7,13 +7,13 @@
   "cuaca": "Hujan Sedang",
   "cuaca_en": "Moderate Rain",
   "curah_hujan": 5.3,
-  "kecepatan_angin": 27.8,
-  "arah_angin": "W",
-  "arah_angin_deg": 301,
-  "suhu": 31,
-  "kelembaban": 87,
+  "kecepatan_angin": 15.3,
+  "arah_angin": "NW",
+  "arah_angin_deg": 318,
+  "suhu": 25,
+  "kelembaban": 91,
   "tutupan_awan": 100,
-  "jarak_pandang": "< 4 km",
-  "waktu_data": "2026-03-14 10:00:00",
-  "tanggal_ambil": "2026-03-14T06:56:00 WIB"
+  "jarak_pandang": "< 8 km",
+  "waktu_data": "2026-03-14 23:00:00",
+  "tanggal_ambil": "2026-03-14T18:48:11 WIB"
 }
