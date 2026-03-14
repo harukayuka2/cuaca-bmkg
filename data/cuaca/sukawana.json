@@ -1,19 +1,19 @@
 {
   "provinsi": "Banten",
   "kota": "Kota Serang",
-  "kecamatan": "Curug",
+  "kecamatan": "Serang",
   "desa": "Sukawana",
-  "adm4": "36.73.04.1007",
+  "adm4": "36.73.01.1008",
   "cuaca": "Cerah Berawan",
   "cuaca_en": "Partly Cloudy",
   "curah_hujan": 0,
-  "kecepatan_angin": 3.6,
-  "arah_angin": "S",
-  "arah_angin_deg": 223,
+  "kecepatan_angin": 4.5,
+  "arah_angin": "SW",
+  "arah_angin_deg": 252,
   "suhu": 25,
-  "kelembaban": 89,
-  "tutupan_awan": 88,
+  "kelembaban": 87,
+  "tutupan_awan": 85,
   "jarak_pandang": "> 10 km",
   "waktu_data": "2026-03-14 21:00:00",
-  "tanggal_ambil": "2026-03-14T18:48:11 WIB"
+  "tanggal_ambil": "2026-03-14T18:49:24 WIB"
 }
