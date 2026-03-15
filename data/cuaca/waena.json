@@ -3,7 +3,7 @@
   "kota": "Kota Jayapura",
   "kecamatan": "Heram",
   "desa": "Waena",
-  "adm4": "91.71.05.2005",
+  "adm4": "91.71.05.1002",
   "cuaca": "Cerah Berawan",
   "cuaca_en": "Partly Cloudy",
   "curah_hujan": 0.1,
@@ -15,5 +15,5 @@
   "tutupan_awan": 86,
   "jarak_pandang": "< 7 km",
   "waktu_data": "2026-03-16 01:00:00",
-  "tanggal_ambil": "2026-03-15T18:50:51 WIB"
+  "tanggal_ambil": "2026-03-15T18:49:37 WIB"
 }
