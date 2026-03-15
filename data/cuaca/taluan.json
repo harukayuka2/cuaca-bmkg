@@ -6,14 +6,14 @@
   "adm4": "65.03.04.2004",
   "cuaca": "Cerah Berawan",
   "cuaca_en": "Partly Cloudy",
-  "curah_hujan": 0,
-  "kecepatan_angin": 6.2,
+  "curah_hujan": 0.3,
+  "kecepatan_angin": 6.7,
   "arah_angin": "W",
-  "arah_angin_deg": 279,
-  "suhu": 23,
+  "arah_angin_deg": 300,
+  "suhu": 24,
   "kelembaban": 98,
-  "tutupan_awan": 86,
-  "jarak_pandang": "< 10 km",
-  "waktu_data": "2026-03-14 23:00:00",
-  "tanggal_ambil": "2026-03-14T18:49:24 WIB"
+  "tutupan_awan": 69,
+  "jarak_pandang": "> 10 km",
+  "waktu_data": "2026-03-15 23:00:00",
+  "tanggal_ambil": "2026-03-15T18:50:51 WIB"
 }
