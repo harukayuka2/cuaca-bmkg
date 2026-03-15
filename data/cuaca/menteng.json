@@ -4,16 +4,16 @@
   "kecamatan": "Menteng",
   "desa": "Menteng",
   "adm4": "31.71.06.1001",
-  "cuaca": "Cerah",
-  "cuaca_en": "Sunny",
+  "cuaca": "Cerah Berawan",
+  "cuaca_en": "Partly Cloudy",
   "curah_hujan": 0,
-  "kecepatan_angin": 8.2,
+  "kecepatan_angin": 17.2,
   "arah_angin": "W",
-  "arah_angin_deg": 289,
+  "arah_angin_deg": 313,
   "suhu": 29,
   "kelembaban": 68,
-  "tutupan_awan": 30,
+  "tutupan_awan": 67,
   "jarak_pandang": "> 10 km",
-  "waktu_data": "2026-03-15 08:00:00",
-  "tanggal_ambil": "2026-03-15T06:54:06 WIB"
+  "waktu_data": "2026-03-15 19:00:00",
+  "tanggal_ambil": "2026-03-15T18:49:37 WIB"
 }
